@@ -1,12 +1,9 @@
-# Scrimba - Meme Generator solution
-
-This is a solution to the [Meme Generator project on Scrimba](https://scrimba.com/learn/learnreact/). Scrimba helps you improve your coding skills by building realistic projects.
+# Meme Generator
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Requirements](#requirements)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Getting Started with Create React App](#getting-started-with-create-react-app)
 - [My process](#my-process)

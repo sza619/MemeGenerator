@@ -1,18 +1,5 @@
 # Meme Generator
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Requirements](#requirements)
-  - [Links](#links)
-  - [Getting Started with Create React App](#getting-started-with-create-react-app)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 ## Overview
 
 ### The challenge
@@ -63,4 +50,4 @@ I'd like to:
 
 ## Author
 
-- Website - [Emanuele Del Monte](https://www.emanueledelmonte.it)
+- sza619

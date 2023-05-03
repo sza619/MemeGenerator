@@ -186,6 +186,7 @@ main {
   transform: translateX(-50%);
   margin: 0.5em 0;
   padding: 0 5px;
+  font-size: 1em;
   font-family: impact, sans-serif;
   text-transform: uppercase;
   color: white;

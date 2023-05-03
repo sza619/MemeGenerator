@@ -23,9 +23,6 @@ This is a solution to the [Meme Generator project on Scrimba](https://scrimba.co
 - Write top and bottom texts on memes via React form
 - Get a random meme image calling APIs
 
-### Screenshot
-
-![screenshot](/src/screenshots/screenshot.png)
 
 ### Links
 

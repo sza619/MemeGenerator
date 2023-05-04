@@ -5,7 +5,7 @@ import download from "downloadjs"
 export default function Meme() {
   // save the meme-related data as an object called `meme
   const [meme, setMeme] = React.useState({
-    topText: "One does not simply",
+    topText: "one does not simply",
     bottomText: "walk into Mordor",
     randomImage: "https://i.imgflip.com/1bij.jpg",
   });
@@ -84,7 +84,7 @@ export default function Meme() {
           onChange={handleChange}
         />
         <button className="form--button" onClick={getMemeImage}>
-          Get a new meme image 📸
+          Get a new Meme Image 📸
         </button>
 
         <div className="meme" id="image-download">

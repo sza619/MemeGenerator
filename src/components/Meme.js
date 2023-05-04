@@ -7,7 +7,7 @@ export default function Meme() {
   const [meme, setMeme] = React.useState({
     topText: "One does not simply",
     bottomText: "walk into Mordor",
-    randomImage: "http://i.imgflip.com/1bij.jpg",
+    randomImage: "https://i.imgflip.com/1bij.jpg",
   });
 
   // Create a state to mantain all memes images

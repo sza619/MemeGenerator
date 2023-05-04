@@ -1,3 +1,7 @@
+import React from "react"
+import { toPng } from "html-to-image"
+import download from "downloadjs"
+
 export default function Meme() {
   // save the meme-related data as an object called `meme
   const [meme, setMeme] = React.useState({

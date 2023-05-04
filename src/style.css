@@ -193,16 +193,6 @@ main {
     2px 2px 5px #000;
 }
 
-.download-btn{
-    display: flex;
-    justify-content: center;
-    margin: 3vw;
-}
-
-.download-btn > button{
-    padding: 1vw;
-}
-
 .bottom {
   bottom: 0;
 }

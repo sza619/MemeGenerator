@@ -39,9 +39,13 @@ React basis like:
 
 ### Continued development
 
-I'd like to:
+I'd like to add:
 
-- Add a button to download meme generated including texts
+- A button to download meme generated including texts
+
+Update:
+
+- Feature Added ✅
 
 ### Useful resources
 

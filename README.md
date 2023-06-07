@@ -11,8 +11,8 @@
 
 ### Links
 
-- Live Site URL: [@Netlify](https://meme-generator-xdelmo.netlify.app/)
-- Solution URL: [@GitHub](https://github.com/xdelmo/meme-generator)
+- Live Site URL: [@Netlify](http://memesjoemama.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/sza619/MemeGenerator)
 
 ### Getting Started with Create React App
 
